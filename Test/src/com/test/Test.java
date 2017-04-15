@@ -16,7 +16,8 @@ public class Test {
 		for(String str : strs2) {  
 		    System.out.println(str);  
 		} 
-		
+		System.out.println("aaaa");
+		System.out.println("aaafawfwfwe");
 	}
 
 }
